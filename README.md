@@ -149,7 +149,15 @@ docker login chickenapp.azurecr.io
 
 docker push chickenapp.azurecr.io/chicken:latest
 
+## Author
 
+- [Syed Razauddin Shahlal](https://github.com/syedshahlal)
+
+Feel free to contribute to this project by opening issues or creating pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 ## Deployment Steps:
 
 1. Build the Docker image of the Source Code
