@@ -1,5 +1,14 @@
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![Flask](https://img.shields.io/badge/Flask-2.0.1-green)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24.2-orange)
+![Pandas](https://img.shields.io/badge/Pandas-1.3.1-red)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-For%20Frontend-yellow)
+![DVC](https://img.shields.io/badge/DVC-For%20Version%20Control-brightgreen)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![AWS](https://img.shields.io/badge/AWS-For%20Cloud%20Deployment-yellow)
+![Azure](https://img.shields.io/badge/Azure-For%20Cloud%20Deployment-blue)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-For%20CI%2FCD-brightgreen)
 # Chicken-Disease-Classification--Project
-
 
 ## Workflows
 
