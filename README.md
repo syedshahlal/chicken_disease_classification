@@ -149,6 +149,13 @@ docker login chickenapp.azurecr.io
 
 docker push chickenapp.azurecr.io/chicken:latest
 
+## Deployment Steps:
+
+1. Build the Docker image of the Source Code
+2. Push the Docker image to Container Registry
+3. Launch the Web App Server in Azure 
+4. Pull the Docker image from the container registry to Web App server and run 
+
 ## Author
 
 - [Syed Razauddin Shahlal](https://github.com/syedshahlal)
@@ -158,9 +165,4 @@ Feel free to contribute to this project by opening issues or creating pull reque
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-## Deployment Steps:
 
-1. Build the Docker image of the Source Code
-2. Push the Docker image to Container Registry
-3. Launch the Web App Server in Azure 
-4. Pull the Docker image from the container registry to Web App server and run 
